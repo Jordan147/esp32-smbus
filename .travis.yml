@@ -10,7 +10,7 @@ branches:
 # Environment variables
 env:
   global:
-    - GH_REPO_REF: github.com/DavidAntliff/esp32-smbus.git
+    - GH_REPO_REF: github.com/jordan147/esp32-smbus.git
 
 # Install dependencies
 addons:
